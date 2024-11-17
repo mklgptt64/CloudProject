@@ -20,3 +20,7 @@ This repository automates the deployment of a containerized application in **Azu
    terraform init
    terraform apply
 
+## Use of Azure Blob storage :
+Use of Azure blob to store .tfstate files
+
+
