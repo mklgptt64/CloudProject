@@ -1,2 +1,2 @@
-# CloudProject
-This project includes Azure cloud , terraform , Github actions for CI pipeline and helm and ArgoCD
+# Cloud_Project
+This project includes Azure cloud , terraform , Github actions for CI pipeline and helm charts and ArgoCD
