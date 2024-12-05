@@ -4,6 +4,7 @@
 ## Deploying Application on AKS using Terraform
 
 This repository automates the deployment of a containerized application in **Azure Kubernetes Service (AKS)** using **Terraform**.
+We are also using Helm chart for package manager and ArgoCD for continous deployment.
 
 ### Steps:
 1. **Infrastructure**: Terraform provisions AKS cluster and other Azure resources.
