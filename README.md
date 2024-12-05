@@ -49,6 +49,9 @@ Integration: Works seamlessly with other Azure services and Terraform.
 ## Helm Chart 
 A Helm Chart is like a recipe or a blueprint that describes how to deploy an application (or a set of applications) on Kubernetes. It contains all the configuration files and templates needed to set up the application.
 
+## ArgoCD
+ArgoCD is a declarative, GitOps continuous delivery tool for Kubernetes. It provides a platform for automating the deployment of Kubernetes applications and ensuring that the desired application state defined in Git is synchronized with the actual state in the cluster.
+
 # Why Use Helm Charts?
 1.Simplifies Kubernetes Deployments:
 Instead of writing lengthy YAML files, you use a Helm Chart that bundles all the Kubernetes resources (like deployments, services, ingress) in one place.
